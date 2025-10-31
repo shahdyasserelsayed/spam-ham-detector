@@ -3,6 +3,9 @@
 A simple **Spam Detection Web App** built with **Streamlit** and **Machine Learning**.  
 It classifies text messages as **Spam** or **Ham (Not Spam)** using a pre-trained pipeline model.
 
+<img width="917" height="589" alt="image" src="https://github.com/user-attachments/assets/17d15c9a-2d48-4075-8003-9319a4583927" />
+
+
 ---
 
 ##  Features
